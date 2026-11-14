@@ -77,7 +77,7 @@ The SVM classifier achieved the following result on the held-out test dataset:
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/mohammedrayaantr/Face-Recognition-System.git
 ```
 
 ### 2. Navigate to the project folder
@@ -89,7 +89,7 @@ cd Face-Recognition-System
 ### 3. Install the required libraries
 
 ```bash
-pip install numpy opencv-python matplotlib seaborn scikit-learn tensorflow tensorflow-hub mtcnn pillow certifi
+pip install -r requirements.txt
 ```
 
 ### 4. Launch Jupyter Notebook
