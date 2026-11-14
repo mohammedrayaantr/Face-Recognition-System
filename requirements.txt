@@ -1,0 +1,11 @@
+numpy
+opencv-python
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+tensorflow-hub
+mtcnn
+certifi
+setuptools&lt;81
+jupyter
